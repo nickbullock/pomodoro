@@ -1,0 +1,15 @@
+.button {
+    background     : rgba(255, 255, 255, .1);
+    width          : 70px;
+    height         : 70px;
+    color          : white;
+    // box-shadow  : 1px 1px 5px 0px rgba(77,77,77,1);
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+    outline        : none;
+    border         : none;
+    border-radius  : 50%;
+    border         : 1px solid white;
+    font-size      : 18px;
+}

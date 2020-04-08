@@ -1,0 +1,15 @@
+.todos {
+    &__item {
+        display    : flex;
+        align-items: center;
+    }
+
+    &__del {
+        color: var(--destructive)
+    }
+
+    &__cb {
+        background: white !important;
+        flex      : 1
+    }
+}
